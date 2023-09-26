@@ -1,0 +1,24 @@
+D:\learn\net core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.csproj.AssemblyReference.cache
+D:\learn\net core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\net core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfoInputs.cache
+D:\learn\net core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfo.cs
+D:\learn\net core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.csproj.CoreCompileInputs.cache
+d:\learn\net core\microservice\Play.Common\src\Play.Common\bin\Debug\net5.0\Play.Common.deps.json
+d:\learn\net core\microservice\Play.Common\src\Play.Common\bin\Debug\net5.0\Play.Common.dll
+d:\learn\net core\microservice\Play.Common\src\Play.Common\bin\Debug\net5.0\Play.Common.pdb
+d:\learn\net core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.dll
+d:\learn\net core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\refint\Play.Common.dll
+d:\learn\net core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.pdb
+d:\learn\net core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\ref\Play.Common.dll
+D:\learn\net-core\microservice\Play.Common\src\Play.Common\bin\Debug\net5.0\Play.Common.deps.json
+D:\learn\net-core\microservice\Play.Common\src\Play.Common\bin\Debug\net5.0\Play.Common.dll
+D:\learn\net-core\microservice\Play.Common\src\Play.Common\bin\Debug\net5.0\Play.Common.pdb
+D:\learn\net-core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.csproj.AssemblyReference.cache
+D:\learn\net-core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\net-core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfoInputs.cache
+D:\learn\net-core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfo.cs
+D:\learn\net-core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.csproj.CoreCompileInputs.cache
+D:\learn\net-core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.dll
+D:\learn\net-core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\refint\Play.Common.dll
+D:\learn\net-core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\Play.Common.pdb
+D:\learn\net-core\microservice\Play.Common\src\Play.Common\obj\Debug\net5.0\ref\Play.Common.dll

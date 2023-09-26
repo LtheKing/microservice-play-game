@@ -1,0 +1,118 @@
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\appsettings.Development.json
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\appsettings.json
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.exe
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.deps.json
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.runtimeconfig.json
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.runtimeconfig.dev.json
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.pdb
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.AssemblyReference.cache
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfoInputs.cache
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfo.cs
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.CoreCompileInputs.cache
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\scopedcss\bundle\Play.Catalog.Service.styles.css
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\Play.Catalog.Service.StaticWebAssets.Manifest.cache
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\Play.Catalog.Service.StaticWebAssets.Pack.cache
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\msbuild.Play.Catalog.Service.Microsoft.AspNetCore.StaticWebAssets.props
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\msbuild.build.Play.Catalog.Service.props
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Play.Catalog.Service.props
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Play.Catalog.Service.props
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.RazorTargetAssemblyInfo.cache
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.CopyComplete
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\refint\Play.Catalog.Service.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.pdb
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.genruntimeconfig.cache
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\ref\Play.Catalog.Service.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\AWSSDK.Core.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\DnsClient.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Snappier.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\ZstdSharp.dll
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\learn\net core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\appsettings.Development.json
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\appsettings.json
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.exe
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.deps.json
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.runtimeconfig.json
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.runtimeconfig.dev.json
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.pdb
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\AWSSDK.Core.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\DnsClient.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Common.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Snappier.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\ZstdSharp.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.AssemblyReference.cache
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfoInputs.cache
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfo.cs
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.CoreCompileInputs.cache
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\scopedcss\bundle\Play.Catalog.Service.styles.css
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\Play.Catalog.Service.StaticWebAssets.Manifest.cache
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\Play.Catalog.Service.StaticWebAssets.Pack.cache
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\msbuild.Play.Catalog.Service.Microsoft.AspNetCore.StaticWebAssets.props
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\msbuild.build.Play.Catalog.Service.props
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Play.Catalog.Service.props
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Play.Catalog.Service.props
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.RazorTargetAssemblyInfo.cache
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.CopyComplete
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\refint\Play.Catalog.Service.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.pdb
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.genruntimeconfig.cache
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\ref\Play.Catalog.Service.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\GreenPipes.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MassTransit.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\NewId.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Contracts.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Contracts.pdb
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Automatonymous.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll

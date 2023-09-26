@@ -1,0 +1,11 @@
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.AssemblyInfoInputs.cache
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.AssemblyInfo.cs
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.deps.json
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net5.0\Play.Catalog.Contracts.pdb
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\refint\Play.Catalog.Contracts.dll
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\Play.Catalog.Contracts.pdb
+D:\learn\net-core\microservice\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net5.0\ref\Play.Catalog.Contracts.dll
